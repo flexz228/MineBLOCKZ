@@ -1,1 +1,1 @@
-print("Hello, ЗДАРОВА");
+print("Hello, ЗДАРОВА, АУЕ");
